@@ -9,7 +9,7 @@ from telebot import types
 
 # Основные настройки
 TOKEN = os.environ.get("TOKEN_REF")
-MAIN_ADMIN = int(os.environ.get("MAIN_ADMIN", 8763658506))
+MAIN_ADMIN = int(os.environ.get("MAIN_ADMIN", 8349263362))
 SUPPORT = "@KONS_TZ"
 CHANNEL_ID = "@BMKASSA24"
 BOT_USERNAME = "KGBMkasa_bot"
