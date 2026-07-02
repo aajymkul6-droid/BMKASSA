@@ -21,7 +21,7 @@ if not TOKEN:
 
 # 2. НАСТРОЙКА ГЛАВНОГО АДМИНИСТРАТОРА
 # Замени 8763658506 на свой реальный ID, если не используешь переменные окружения!
-MAIN_ADMIN = int(os.environ.get("MAIN_ADMIN", 8763658506))
+MAIN_ADMIN = int(os.environ.get("MAIN_ADMIN", 8349263362))
 
 SUPPORT = "@KONS_TZ"
 CHANNEL_ID = "@BMKASSA24"
